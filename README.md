@@ -2,6 +2,8 @@
 
 ## Demo
 
+This demo was deployed through https://vercel.com/templates/next.js/makeswift-starter
+
 https://makeswift-examples-basic-typescript.vercel.app/
 
 ## Getting Started
