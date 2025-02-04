@@ -4,7 +4,9 @@
 
 This demo was deployed through https://vercel.com/templates/next.js/makeswift-starter
 
-https://makeswift-examples-basic-typescript.vercel.app/
+## BigCommerce
+
+Guide to integrate Nextjs + Makeswift + BigCommerce https://www.youtube.com/watch?v=O8E19lMG7h8
 
 ## Getting Started
 
